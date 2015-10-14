@@ -1,0 +1,27 @@
+{
+"inputMovie": "d:\\movies\\back-to-the-future.mp4",
+"tmpDir": "d:\\tmp",
+"clips":
+[
+{"start":"00:00",
+"end":"0:13:50", "comment":"butthead"},                    {"start":"0:13:54",
+"end":"0:21:11", "comment":"serious shit"},                {"start":"0:21:14",
+"end":"0:28:58", "comment":"terrorists shooting"},         {"start":"0:29:42",
+"end":"0:31:03", "comment":"rocket launcher / holy shit"}, {"start":"0:31:13",
+"end":"0:33:00", "comment":"shotgun"},                     {"start":"0:33:13",
+"end":"0:33:30", "comment":"bastard killed my pine"},      {"start":"0:33:34",
+"end":"0:39:19", "comment":"grab / butthead"},             {"start":"0:39:31",
+"end":"0:41:38", "comment":"peeping tom"},                 {"start":"0:41:57",
+"end":"1:00:16", "comment":"biff versus marty"},           {"start":"1:00:51",
+"end":"1:05:48", "comment":"marty punches biff"},          {"start":"1:05:52",
+"end":"1:07:57", "comment":"get that son of a bitch"},     {"start":"1:08:00",
+"end":"1:13:24", "comment":"touch her on her"},            {"start":"1:13:37",
+"end":"1:17:39", "comment":"drinking and smoking"},        {"start":"1:18:30",
+"end":"1:20:22", "comment":"SOB / biff "},                 {"start":"1:20:54",
+"end":"1:21:53", "comment":"lorraine in car"},             {"start":"1:22:38",
+"end":"1:22:54", "comment":"biff push lorraine"},          {"start":"1:22:57",
+"end":"1:23:02", "comment":"george punch biff"},           {"start":"1:23:28",
+"end":"1:25:53", "comment":"george push biff"},            {"start":"1:25:57",
+"end":"1:56:06", "comment":"rest of movie"}
+]
+}
